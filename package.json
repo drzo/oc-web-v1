@@ -15,12 +15,6 @@
     "analyze": "vite-bundle-analyzer"
   },
   "dependencies": {
-    "@tanstack/react-query": "^5.28.4",
-    "@tanstack/react-query-devtools": "^5.28.4",
-    "react": "^18.3.1",
-    "react-dom": "^18.3.1",
-    "react-router-dom": "^6.22.3",
-    "zustand": "^4.5.2",
     "@hookform/resolvers": "^3.9.0",
     "@radix-ui/react-alert-dialog": "^1.1.1",
     "@radix-ui/react-dialog": "^1.1.1",
@@ -29,11 +23,19 @@
     "@radix-ui/react-label": "^2.1.0",
     "@radix-ui/react-slot": "^1.1.0",
     "@radix-ui/react-toast": "^1.2.1",
+    "@tanstack/react-query": "^5.28.4",
+    "@tanstack/react-query-devtools": "^5.28.4",
     "class-variance-authority": "^0.7.0",
     "clsx": "^2.1.1",
+    "hyperon": "^0.0.1",
     "lucide-react": "^0.446.0",
+    "pip": "^0.0.1",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-router-dom": "^6.22.3",
     "tailwind-merge": "^2.5.2",
-    "tailwindcss-animate": "^1.0.7"
+    "tailwindcss-animate": "^1.0.7",
+    "zustand": "^4.5.2"
   },
   "devDependencies": {
     "@playwright/test": "^1.42.1",
