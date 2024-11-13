@@ -5,3 +5,5 @@ By default, this template supports JSX syntax with Tailwind CSS classes, the sha
 Use icons from lucide-react for logos.
 
 Use stock photos from unsplash where appropriate, only valid URLs you know exist.
+
+Convert opencog repos to modern web applications and lightweight implementations while maintining core functionality.
